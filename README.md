@@ -1,2 +1,4 @@
 # Caching-Mysql-Query-Responses-Redis
-Caching Mysql Query Responses Using Redis 
+
+1. download redis
+2. you should connect to your database
